@@ -1,0 +1,12 @@
+C:\Users\where\OneDrive\Рабочий стол\xakep\test assignment\Calculator tester\bin\Debug\Calculator tester.exe.config
+C:\Users\where\OneDrive\Рабочий стол\xakep\test assignment\Calculator tester\bin\Debug\Calculator tester.exe
+C:\Users\where\OneDrive\Рабочий стол\xakep\test assignment\Calculator tester\bin\Debug\Calculator tester.pdb
+C:\Users\where\OneDrive\Рабочий стол\xakep\test assignment\Calculator tester\obj\Debug\Calculator tester.csprojAssemblyReference.cache
+C:\Users\where\OneDrive\Рабочий стол\xakep\test assignment\Calculator tester\obj\Debug\Calculator tester.csproj.CoreCompileInputs.cache
+C:\Users\where\OneDrive\Рабочий стол\xakep\test assignment\Calculator tester\obj\Debug\Calculator tester.exe
+C:\Users\where\OneDrive\Рабочий стол\xakep\test assignment\Calculator tester\obj\Debug\Calculator tester.pdb
+C:\Users\where\OneDrive\Рабочий стол\xakep\test assignment\Calculator tester\bin\Debug\WebDriver.dll
+C:\Users\where\OneDrive\Рабочий стол\xakep\test assignment\Calculator tester\bin\Debug\WebDriver.xml
+C:\Users\where\OneDrive\Рабочий стол\xakep\test assignment\Calculator tester\obj\Debug\Calculator tester.csproj.CopyComplete
+C:\Users\where\OneDrive\Рабочий стол\xakep\test assignment\Calculator tester\bin\Debug\WebDriver.Support.dll
+C:\Users\where\OneDrive\Рабочий стол\xakep\test assignment\Calculator tester\bin\Debug\WebDriver.Support.xml
